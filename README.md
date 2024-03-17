@@ -1,1 +1,1 @@
-Inventory Management System using Java Swing Class and MySQL Database cloned.
+Inventory Management System using Java Swing Class and MySQL Database.
